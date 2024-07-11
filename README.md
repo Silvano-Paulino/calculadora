@@ -1,3 +1,5 @@
-#Integrantes do Grupo
-1- Laurindo Moisés
-2- Silvano Paulino
+# Calculadora em Go
+
+Este repositório é dedicado a crição de uma calculadora em Go.
+
+Usando a aborddagem de criação de aplicações web com Testing Driven Development (TDD).
